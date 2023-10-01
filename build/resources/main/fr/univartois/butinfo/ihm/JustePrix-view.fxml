@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fr.univartois.butinfo.ihm.JustePrixController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label fx:id="questionPrix" text="Entrez votre prix (Entre 0 et 10000)" />
+   <Label fx:id="indicePrix" />
+   <TextField fx:id="entrerPrix" onAction="#onValiderButtonClick" promptText="Votre prix" />
+   <Button fx:id="validerPrix" mnemonicParsing="false" onAction="#onValiderButtonClick" text="Valider" />
+</VBox>

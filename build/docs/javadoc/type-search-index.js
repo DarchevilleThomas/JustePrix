@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.univartois.butinfo.ihm","l":"HelloApplication"},{"p":"fr.univartois.butinfo.ihm","l":"JustePrixController"}];updateSearchResults();

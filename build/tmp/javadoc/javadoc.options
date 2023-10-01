@@ -1,0 +1,8 @@
+-classpath '/export/etu/thomas.darcheville/BUT1/IHM/TD/TD02/build/classes/java/main:/export/etu/thomas.darcheville/BUT1/IHM/TD/TD02/build/resources/main:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17.0.2/1c65c10f9656d7d6c1424d4711cc56a9ee99220d/javafx-fxml-17.0.2-linux.jar:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.2/c39c919f987496f86f04babacf2dd27d2bdb263e/javafx-controls-17.0.2-linux.jar:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.2/f52640ea07a0d7fe2ac8b9f945ec58fa22ac1afd/javafx-controls-17.0.2.jar:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.2/ac7e322130657d7ac694d1aa32799d32c02a12c9/javafx-graphics-17.0.2-linux.jar:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.2/1eb7ce07e07ccc2fcb26103f07535e72069519d6/javafx-graphics-17.0.2.jar:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.2/710e894e37e7027340e9697d29a11e024d3bd7ae/javafx-base-17.0.2-linux.jar:/export/etu/thomas.darcheville/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.2/ca46f15a306175ac1513211e1d190a5baacd77cc/javafx-base-17.0.2.jar'
+-d '/export/etu/thomas.darcheville/BUT1/IHM/TD/TD02/build/docs/javadoc'
+-doctitle 'Juste Prix API'
+-notimestamp 
+-quiet 
+-windowtitle 'Juste Prix API'
+'/export/etu/thomas.darcheville/BUT1/IHM/TD/TD02/src/main/java/fr/univartois/butinfo/ihm/JustePrixController.java'
+'/export/etu/thomas.darcheville/BUT1/IHM/TD/TD02/src/main/java/fr/univartois/butinfo/ihm/HelloApplication.java'
